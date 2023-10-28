@@ -2,3 +2,6 @@
 /_target
 /leanpkg.path
 surreal.pdf
+/build
+/lakefile.olean
+/lake-packages/*
